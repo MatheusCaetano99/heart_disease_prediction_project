@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction Project
 
 This repository contains a machine learning project developed during my exchange program at Hochschule Karlsruhe in Germany. The project focuses on predicting the likelihood of heart disease based on patient data using various machine learning techniques.
 
@@ -17,9 +17,9 @@ Course Repository: https://github.com/shaq31415926/ip302
 
 1. Open the Jupyter notebook provided in the repository and execute the cells to train and evaluate the models. Once you decide on the best-performing model, save it using joblib.
 
-NOTE: Make sure to install the following Python libraries using pip before running the app:
+  NOTE: Make sure to install the following Python libraries using pip before running the app:
 
-pip install pandas numpy matplotlib seaborn sklearn xgboost joblib
+  pip install pandas numpy matplotlib seaborn sklearn xgboost joblib
 
 
 2. After saving the model, navigate to the src folder in your terminal or command prompt.
