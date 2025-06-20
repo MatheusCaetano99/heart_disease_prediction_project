@@ -9,9 +9,8 @@ The goal of this project is to apply machine learning models to analyze and pred
 
 Special thanks to Sarah Haq for her guidance and knowledge throughout the course. You can find her GitHub profile and the course repository below:
 
-Sarah Haq's GitHub Profile: https://github.com/shaq31415926
+Sarah Haq's GitHub Profile: https://github.com/shaq31415926  
 Course Repository: https://github.com/shaq31415926/ip302
-
 
 **How to Run**
 
